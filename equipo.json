@@ -5,8 +5,8 @@
     "rol": "Lider de Integracion"
   },
   "integrante_b": {
-    "nombre": "Juan P",
-    "github_user": "Juanpo",
-    "rol": "PENDIENTE"
+    "nombre": "Nombre del Integrante B",
+    "github_user": "usuario_github_b",
+    "rol": "Desarrollador Secundario"
   }
 }
