@@ -7,3 +7,4 @@ Línea 3: Configuración de Git global completada.
 Línea 4: Inicio de edición paralela en ramas.
 Línea 5: Estrategia de arquitectura definida por Integrante A.
 Línea 6: Fin del registro de arquitectura.
+Línea 5: Estrategia de arquitectura definida por Integrante B.

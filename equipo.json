@@ -5,8 +5,13 @@
     "rol": "Lider de Integracion"
   },
   "integrante_b": {
+<<<<<<< HEAD
     "nombre": "Nombre del Integrante B",
     "github_user": "usuario_github_b",
+=======
+    "nombre": "Miguel Quiroz",
+    "github_user": "quirozmiguelangel2005-hub",
+>>>>>>> feature-integrante-b
     "rol": "Desarrollador Secundario"
   }
 }
